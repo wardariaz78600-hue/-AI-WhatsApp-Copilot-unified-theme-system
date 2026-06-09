@@ -6,3 +6,5 @@ Theme consistently across all 3 panels:
 Light mode: Clean whites, soft greys, and pastel accents.
 Dark mode: Deep navy/near-black backgrounds with steel-blue accents and darker card surfaces.
 Inputs, cards, and borders adapt automatically to the selected theme.
+<img width="918" height="593" alt="image" src="https://github.com/user-attachments/assets/f9cdf77f-0144-48cd-98db-8f3e280b789a" />
+<img width="899" height="589" alt="image" src="https://github.com/user-attachments/assets/073ba369-672e-493e-8c16-7af524ca38dd" />
